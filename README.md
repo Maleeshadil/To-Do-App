@@ -1,5 +1,7 @@
 # To-Do App
 
+<img width="1470" height="956" alt="To-Do-App" src="https://github.com/user-attachments/assets/e00d773e-f3a7-425b-8a47-575f7e4b4d69" />
+
 ## Project Overview
 
 The To-Do App is a full-stack application designed to help users manage their tasks efficiently. It features a Node.js backend with Express and MongoDB for task management and user authentication, and a React frontend for a seamless user experience.
