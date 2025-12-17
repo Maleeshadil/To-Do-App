@@ -1,6 +1,8 @@
 # To-Do App
 
-<img width="1470" height="956" alt="To-Do-App" src="https://github.com/user-attachments/assets/e00d773e-f3a7-425b-8a47-575f7e4b4d69" />
+![To-Do-App](https://github.com/user-attachments/assets/80f8f23b-b463-4035-b5f9-79f1e7e9d423)
+
+
 
 ## Project Overview
 
